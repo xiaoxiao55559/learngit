@@ -3,8 +3,4 @@ Git is busy software.
 aa
 cc
 branch fenzhi
-<<<<<<< HEAD
-master
-=======
-haha
->>>>>>> haha
+merge
